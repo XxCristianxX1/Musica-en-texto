@@ -2,7 +2,7 @@ h1
 {
     text-align: center;
     font-family: "Arial";
-    color: blueviolet;
+    color: blue;
 }
 p
 {
@@ -14,5 +14,6 @@ p
     font-weight: 400; 
     color: #ffffff; 
     padding: 20px;
-    margin: 20px;
-    background:#ee0467 }
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: lightblue; }
