@@ -6,6 +6,8 @@ h1
 }
 p
 {
+    margin-left: 300px;
+    margin-right: 300px;
     font-family: 'Times New Roman';
 }
 .caja { 
